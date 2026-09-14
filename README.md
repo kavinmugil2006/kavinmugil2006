@@ -1,29 +1,19 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Kavinmugil - AI/ML Engineer" width="100%">
-
-<br>
-
-<a href="https://github.com/kavinmugil2006">
-  <img src="https://img.shields.io/badge/GitHub-kavinmugil2006-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-Expertise-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-</a>
-<a href="https://scikit-learn.org/">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Machine Learning">
-</a>
-<a href="https://pytorch.org/">
-  <img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning">
-</a>
+<img src="./assets/header.svg" alt="Kavinmugil AI ML Engineer" width="100%">
 
 <br><br>
 
-### `> initializing Kavinmugil...`
+<a href="https://github.com/kavinmugil2006"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
+<a href="https://kavinmugil-ai-engineer.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00AAFF" alt="Portfolio"></a>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENGINEERING-0D1117?style=for-the-badge&logo=python&logoColor=00AAFF" alt="AI ML">
+<img src="https://img.shields.io/badge/RESEARCH-XAI%20%2B%20RL-0D1117?style=for-the-badge&logoColor=FF1744" alt="Research">
 
-**AI & Data Science Engineering Student** building practical ML systems, experimenting with explainable AI, and turning research ideas into working projects.
+<br><br>
 
-`AI/ML` · `Deep Learning` · `XAI` · `Data Science` · `Automation` · `Research`
+**AI & Data Science Engineering Student** building practical machine-learning systems, exploring explainable AI, and turning research ideas into working software.
+
+`AI/ML` · `Deep Learning` · `XAI` · `Reinforcement Learning` · `Data Science` · `Automation`
 
 </div>
 
@@ -33,14 +23,13 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  KAVINMUGIL A                                                │
-│  AI / ML ENGINEER                                            │
+│  KAVINMUGIL A                         AI / ML ENGINEER        │
 ├──────────────────────────────────────────────────────────────┤
-│  ▸ Building intelligent systems                              │
-│  ▸ Exploring Explainable AI & Reinforcement Learning         │
-│  ▸ Working with ML/DL models and real-world datasets         │
-│  ▸ Interested in research, automation and deployment         │
-│  ▸ Currently turning ideas → experiments → working systems   │
+│  ▸ Build practical ML systems                                 │
+│  ▸ Research Explainable AI + Reinforcement Learning           │
+│  ▸ Work with real-world datasets and model evaluation         │
+│  ▸ Turn experiments into usable applications                  │
+│  ▸ Interested in research, automation and deployment          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -49,33 +38,7 @@
 ## `02 // TECH STACK`
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,sql,bash" alt="Languages">
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and ML">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white">
-<img src="https://img.shields.io/badge/SHAP-FF1744?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=11557c">
-
-### Development & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,flask" alt="Development tools">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111">
-
+<img src="./assets/tech-stack.svg" alt="Kavinmugil technology stack" width="100%">
 </div>
 
 ---
@@ -84,42 +47,52 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Fraud Job Detector](https://github.com/kavinmugil2006/fraud-job-detector)
+### `01` — Fraud Job Detector
 
-ML/DL benchmark for fraudulent job-posting detection using multiple models including **SVM, XGBoost, BERT, BiLSTM and Transformer**.
+**[View repository →](https://github.com/kavinmugil2006/fraud-job-detector)**
 
-**Focus:** NLP · Classification · Model Comparison · Flask
+A comparative ML/DL study for fraudulent job-posting detection using SVM, XGBoost, BERT, BiLSTM and Transformer models, with a Flask web application.
+
+**Research:** NLP · Classification · Model Comparison · Explainability
+
+**Result:** tuned SVM reached **F1 = 0.913** on the project benchmark.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [DQN + SHAP Path Planning](https://github.com/kavinmugil2006/dqn-shap-path-planning)
+### `02` — DQN + SHAP Path Planning
 
-Explainable reinforcement-learning approach combining **Deep Q-Networks** with **SHAP** to make navigation decisions more interpretable.
+**[View repository →](https://github.com/kavinmugil2006/dqn-shap-path-planning)**
 
-**Focus:** RL · XAI · DQN · SHAP · Robotics
+Explainable reinforcement-learning work combining a Deep Q-Network with SHAP to make navigation decisions easier to interpret.
+
+**Research:** RL · XAI · DQN · SHAP · Robotics
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [n8n Automation](https://github.com/kavinmugil2006/n8n)
+### `03` — Automation / n8n
 
-Workflow automation experiments and integrations using **n8n**.
+**[View repository →](https://github.com/kavinmugil2006/n8n)**
+
+Workflow automation experiments focused on connecting tools, APIs and repeatable processes.
 
 **Focus:** Automation · APIs · Workflow Engineering
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [IEEE Research Work](https://github.com/kavinmugil2006/ieeepaper)
+### `04` — AI/ML Research
 
-Research-oriented work and supporting material connected to AI/ML research.
+**[View repository →](https://github.com/kavinmugil2006/ieeepaper)**
 
-**Focus:** Research · AI · Experimentation
+Research-oriented work and supporting material around applied AI/ML experimentation and publication work.
+
+**Focus:** Research · Experiments · Applied AI
 
 </td>
 </tr>
@@ -127,16 +100,16 @@ Research-oriented work and supporting material connected to AI/ML research.
 
 ---
 
-## `04 // RESEARCH INTERESTS`
+## `04 // RESEARCH VECTOR`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     RESEARCH VECTOR                         ║
+║                         RESEARCH VECTOR                      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  [01] Explainable Artificial Intelligence                    ║
 ║  [02] Reinforcement Learning                                 ║
-║  [03] Anomaly / Fraud Detection                              ║
+║  [03] Fraud / Anomaly Detection                              ║
 ║  [04] Natural Language Processing                            ║
 ║  [05] Applied Machine Learning                               ║
 ║  [06] Intelligent Automation                                 ║
@@ -149,26 +122,23 @@ Research-oriented work and supporting material connected to AI/ML research.
 ## `05 // GITHUB ANALYTICS`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinmugil2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00AAFF&icon_color=FF1744&text_color=C9D1D9&ring_color=00AAFF" alt="GitHub stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinmugil2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AAFF&text_color=C9D1D9" alt="Top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kavinmugil2006&hide_border=true&background=0D1117&ring=00AAFF&fire=FF1744&currStreakLabel=00AAFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6B7280" alt="GitHub streak">
-
+<img src="./assets/analytics.svg" alt="GitHub analytics snapshot for Kavinmugil" width="100%">
 </div>
+
+> **Note:** this section intentionally uses a repository-hosted SVG rather than fragile third-party stats cards. The numbers are a profile snapshot; GitHub's own profile remains the live source for current activity.
 
 ---
 
 ## `06 // CURRENT MODE`
 
 ```text
-STATUS      : ONLINE
-MODE        : BUILD
-FOCUS       : AI / ML + RESEARCH
-PIPELINE    : IDEA → DATA → MODEL → EXPLAIN → DEPLOY
+┌──────────────────────────────────────────────────────────────┐
+│ STATUS      : ONLINE                                         │
+│ MODE        : BUILD                                          │
+│ FOCUS       : AI / ML + RESEARCH                             │
+│ PIPELINE    : IDEA → DATA → MODEL → EXPLAIN → DEPLOY         │
+│ NEXT        : MORE RESEARCH • MORE SYSTEMS • MORE SHIPPING   │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -176,20 +146,13 @@ PIPELINE    : IDEA → DATA → MODEL → EXPLAIN → DEPLOY
 ## `07 // CONNECT`
 
 <div align="center">
+<img src="./assets/connect.svg" alt="Connect with Kavinmugil" width="100%">
+</div>
 
-<a href="https://github.com/kavinmugil2006">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<div align="center">
 
-<!-- Replace the placeholder below with your real LinkedIn URL -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-
-<!-- Replace the placeholder below with your portfolio URL -->
-<a href="https://kavinmugil-ai-engineer.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AAFF">
-</a>
+<a href="https://github.com/kavinmugil2006"><img src="https://img.shields.io/badge/GITHUB-Visit%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://kavinmugil-ai-engineer.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00AAFF" alt="Portfolio"></a>
 
 </div>
 
@@ -198,13 +161,9 @@ PIPELINE    : IDEA → DATA → MODEL → EXPLAIN → DEPLOY
 <div align="center">
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│       BUILD INTELLIGENT SYSTEMS. EXPLAIN THE DECISIONS.   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+> BUILD INTELLIGENT SYSTEMS.
+> EXPLAIN THE DECISIONS.
+> DEPLOY THE RESULTS.
 ```
-
-<img src="https://komarev.com/ghpvc/?username=kavinmugil2006&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
