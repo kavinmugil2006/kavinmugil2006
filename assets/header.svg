@@ -1,45 +1,24 @@
-<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#05070d"/>
-    <stop offset="55%" stop-color="#0a1020"/>
-    <stop offset="100%" stop-color="#12070b"/>
-  </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00aaff" stop-opacity="0"/>
-    <stop offset="45%" stop-color="#00aaff"/>
-    <stop offset="72%" stop-color="#ff1744"/>
-    <stop offset="100%" stop-color="#ff1744" stop-opacity="0"/>
-  </linearGradient>
-  <filter id="glowBlue"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <filter id="glowRed"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070b"/><stop offset=".55" stop-color="#0b1220"/><stop offset="1" stop-color="#16070c"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#00aaff"/><stop offset=".7" stop-color="#00aaff"/><stop offset="1" stop-color="#ff1744"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-
-<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
-<path d="M0 265 C210 205 360 305 560 245 S910 170 1200 235" fill="none" stroke="#00aaff" stroke-opacity=".12" stroke-width="2"/>
-<path d="M0 285 C260 230 400 320 650 255 S980 205 1200 270" fill="none" stroke="#ff1744" stroke-opacity=".10" stroke-width="2"/>
-
-<g opacity=".18" stroke="#4d6a88" stroke-width="1">
-  <path d="M0 55H1200M0 105H1200M0 155H1200M0 205H1200M0 255H1200"/>
-  <path d="M80 0V330M180 0V330M280 0V330M380 0V330M480 0V330M580 0V330M680 0V330M780 0V330M880 0V330M980 0V330M1080 0V330"/>
+<rect width="1200" height="330" rx="18" fill="url(#bg)" stroke="#26384c" stroke-width="2"/>
+<g opacity=".13" stroke="#6c8299"><path d="M0 60H1200M0 110H1200M0 160H1200M0 210H1200M0 260H1200"/><path d="M80 0V330M180 0V330M280 0V330M380 0V330M480 0V330M580 0V330M680 0V330M780 0V330M880 0V330M980 0V330M1080 0V330"/></g>
+<text x="70" y="65" font-family="monospace" font-size="15" letter-spacing="5" fill="#00aaff">SYSTEM / PROFILE_NODE</text>
+<text x="68" y="150" font-family="Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="5" fill="#f5f7fa">KAVINMUGIL</text>
+<rect x="70" y="175" width="590" height="3" fill="url(#accent)" filter="url(#g)"/>
+<text x="70" y="218" font-family="monospace" font-size="23" letter-spacing="3" fill="#e5edf5">AI / ML ENGINEER</text>
+<text x="70" y="253" font-family="monospace" font-size="15" letter-spacing="2" fill="#7f95aa">AI/ML  •  XAI  •  RESEARCH  •  AUTOMATION</text>
+<text x="70" y="286" font-family="monospace" font-size="13" fill="#4f6a82">&gt; IDEA → DATA → MODEL → EXPLAIN → DEPLOY</text>
+<g transform="translate(900,75)">
+ <circle cx="100" cy="90" r="72" fill="none" stroke="#00aaff" stroke-opacity=".35" stroke-width="2"/>
+ <circle cx="100" cy="90" r="51" fill="none" stroke="#ff1744" stroke-opacity=".45" stroke-width="2"/>
+ <circle cx="100" cy="90" r="9" fill="#00aaff" filter="url(#g)"/>
+ <g stroke="#7990a8" stroke-width="2" opacity=".8"><path d="M100 90V38M100 90L55 116M100 90L145 116"/><path d="M55 116L30 90M145 116L170 90"/></g>
+ <circle cx="100" cy="38" r="6" fill="#ff1744"/><circle cx="55" cy="116" r="6" fill="#00aaff"/><circle cx="145" cy="116" r="6" fill="#ff1744"/>
+ <text x="100" y="170" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2" fill="#617990">NEURAL / NODE</text>
 </g>
-
-<text x="72" y="78" fill="#00aaff" font-family="monospace" font-size="15" letter-spacing="4">SYSTEM // PROFILE</text>
-<text x="68" y="160" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="7">KAVINMUGIL</text>
-<rect x="72" y="184" width="520" height="3" fill="url(#line)" filter="url(#glowBlue)"/>
-<text x="72" y="225" fill="#d7e1ed" font-family="monospace" font-size="24" letter-spacing="3">AI / ML ENGINEER</text>
-<text x="72" y="263" fill="#7f96ad" font-family="monospace" font-size="16">BUILDING  •  RESEARCHING  •  DEPLOYING</text>
-
-<g transform="translate(865,95)">
-  <circle cx="90" cy="70" r="67" fill="none" stroke="#00aaff" stroke-opacity=".35" stroke-width="2"/>
-  <circle cx="90" cy="70" r="48" fill="none" stroke="#ff1744" stroke-opacity=".35" stroke-width="2"/>
-  <circle cx="90" cy="70" r="8" fill="#00aaff" filter="url(#glowBlue)"/>
-  <circle cx="90" cy="22" r="5" fill="#ff1744" filter="url(#glowRed)"/>
-  <circle cx="48" cy="93" r="5" fill="#00aaff" filter="url(#glowBlue)"/>
-  <circle cx="132" cy="93" r="5" fill="#ff1744" filter="url(#glowRed)"/>
-  <path d="M90 70L90 22M90 70L48 93M90 70L132 93" stroke="#6f8ca8" stroke-width="2" opacity=".7"/>
-  <text x="90" y="160" text-anchor="middle" fill="#6f8ca8" font-family="monospace" font-size="12" letter-spacing="2">NEURAL NODE</text>
-</g>
-
-<text x="1090" y="305" text-anchor="end" fill="#38516b" font-family="monospace" font-size="12">KAVINMUGIL A // 2026</text>
+<text x="1130" y="300" text-anchor="end" font-family="monospace" font-size="11" fill="#385069">KAVINMUGIL A // ONLINE</text>
 </svg>
