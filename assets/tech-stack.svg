@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360">
+<rect width="1100" height="360" rx="16" fill="#080c12" stroke="#26384c" stroke-width="2"/>
+<text x="34" y="45" font-family="monospace" font-size="16" letter-spacing="3" fill="#00aaff">TECH STACK / CORE SYSTEMS</text>
+<text x="1015" y="45" text-anchor="end" font-family="monospace" font-size="12" fill="#ff1744">v2.0</text>
+<g font-family="monospace" font-size="15">
+<text x="40" y="85" fill="#7f95aa">LANGUAGES</text>
+<g transform="translate(40,100)">
+<rect width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="72" y="27" text-anchor="middle" fill="#e8f2fb">PYTHON</text>
+<rect x="160" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="232" y="27" text-anchor="middle" fill="#e8f2fb">JAVA</text>
+<rect x="320" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="392" y="27" text-anchor="middle" fill="#e8f2fb">C / C++</text>
+<rect x="480" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="552" y="27" text-anchor="middle" fill="#e8f2fb">SQL</text>
+</g>
+<text x="40" y="180" fill="#7f95aa">AI / MACHINE LEARNING</text>
+<g transform="translate(40,195)">
+<rect width="145" height="42" rx="8" fill="#101923" stroke="#ff1744"/><text x="72" y="27" text-anchor="middle" fill="#e8f2fb">PYTORCH</text>
+<rect x="160" width="145" height="42" rx="8" fill="#101923" stroke="#ff1744"/><text x="232" y="27" text-anchor="middle" fill="#e8f2fb">TENSORFLOW</text>
+<rect x="320" width="145" height="42" rx="8" fill="#101923" stroke="#ff1744"/><text x="392" y="27" text-anchor="middle" fill="#e8f2fb">SKLEARN</text>
+<rect x="480" width="145" height="42" rx="8" fill="#101923" stroke="#ff1744"/><text x="552" y="27" text-anchor="middle" fill="#e8f2fb">XGBOOST</text>
+<rect x="640" width="145" height="42" rx="8" fill="#101923" stroke="#ff1744"/><text x="712" y="27" text-anchor="middle" fill="#e8f2fb">SHAP / XAI</text>
+</g>
+<text x="40" y="275" fill="#7f95aa">TOOLS / DATA / DEPLOYMENT</text>
+<g transform="translate(40,290)">
+<rect width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="72" y="27" text-anchor="middle" fill="#e8f2fb">PANDAS / NUMPY</text>
+<rect x="160" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="232" y="27" text-anchor="middle" fill="#e8f2fb">FLASK</text>
+<rect x="320" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="392" y="27" text-anchor="middle" fill="#e8f2fb">GIT / GITHUB</text>
+<rect x="480" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="552" y="27" text-anchor="middle" fill="#e8f2fb">DOCKER</text>
+<rect x="640" width="145" height="42" rx="8" fill="#101923" stroke="#00aaff"/><text x="712" y="27" text-anchor="middle" fill="#e8f2fb">N8N</text>
+</g></g>
+</svg>

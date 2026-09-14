@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310">
+<rect width="1100" height="310" rx="16" fill="#080c12" stroke="#26384c" stroke-width="2"/>
+<text x="34" y="48" font-family="monospace" font-size="17" letter-spacing="3" fill="#00aaff">CONNECT / COLLABORATE</text>
+<text x="1060" y="48" text-anchor="end" font-family="monospace" font-size="12" fill="#ff1744">OPEN CHANNEL</text>
+<rect x="34" y="76" width="1032" height="195" rx="12" fill="#0d141e" stroke="#1e3d5a"/>
+<text x="60" y="112" font-family="monospace" font-size="14" fill="#00aaff">&gt; kavin@gitHub:~$ ./connect.sh</text>
+<text x="60" y="150" font-family="monospace" font-size="15" fill="#d8e2ec">Building intelligent systems • researching XAI • shipping ML projects</text>
+<text x="60" y="192" font-family="monospace" font-size="14" fill="#8499ad">GITHUB</text><text x="220" y="192" font-family="monospace" font-size="14" fill="#f3f7fb">@kavinmugil2006</text>
+<text x="60" y="225" font-family="monospace" font-size="14" fill="#8499ad">PORTFOLIO</text><text x="220" y="225" font-family="monospace" font-size="14" fill="#00aaff">kavinmugil-ai-engineer.lovable.app</text>
+<text x="60" y="255" font-family="monospace" font-size="12" fill="#526b82">For research, collaboration, internships and AI/ML projects.</text>
+<text x="1038" y="255" text-anchor="end" font-family="monospace" font-size="12" fill="#ff1744">_KAVINMUGIL</text>
+</svg>
